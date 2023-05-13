@@ -23,6 +23,6 @@ Any feedback or collaboration is more than welcome.
 Special thanks to [LeadTheFuture](leadthefuture.tech/) for welcoming and supporting this initiative.
 
 ## Contributors 
-<a href="https://github.com/leadthefuture/ML-and-DataScience-preparation/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=leadthefuture/ML-and-DataScience-preparation" />
+<a href="https://github.com/najwno/ML-and-DataScience-preparation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=najwno/ML-and-DataScience-preparation" />
 </a>
